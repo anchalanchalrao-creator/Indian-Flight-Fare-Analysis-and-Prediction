@@ -186,5 +186,3 @@ Overall, the project demonstrates the practical application of Python-based data
 5. [Seaborn Documentation](https://seaborn.pydata.org/)
 
 ---
-
-**Developed as part of the BLEEP Education Data Science Training & Internship Programme.**
