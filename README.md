@@ -175,7 +175,7 @@ Overall, the project demonstrates the practical application of Python-based data
 |---|---|
 | `Flight_Fare_Analysis.ipynb` | Complete Jupyter Notebook containing analysis, code and outputs |
 | `INDIAN FLIGHT FARE ANALYSIS AND PREDICTION.pdf` | Project report |
-| `Clean_Dataset.csv` | Dataset used for the analysis (shared separately if not uploaded to GitHub) |
+| `Clean_Dataset.csv` | Dataset used for the analysis|
 
 ## 12. References
 
